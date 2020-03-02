@@ -9,5 +9,5 @@
 3 - Natours Project - Using Advanced Css and Sass (Part 2)<br/>
 4 - Natours Project - Advanced Responsive Design (Part 3)<br/>
 5 - Trillo Project - Master Flexbox!<br/>
-6 - A Quick Introduction to CSS Grid Layouts **- Current**<br/>
+6 - A Quick Introduction to CSS Grid Layouts<br/>
 7 - Nexter Project - Master CSS Grid Layouts<br/>
